@@ -1,3 +1,3 @@
 # find-close-meteorites
 A demo project that uses Python and NASA data to find meteor landing sites
-changed via Visio studi code
+changed via Visio studio code
